@@ -1,0 +1,4902 @@
+{
+    "H0": {
+        "super_nodes": {
+            "S0_0": {
+                "can_reach_solution": false
+            },
+            "S0_1": {
+                "can_reach_solution": false
+            },
+            "S0_2": {
+                "can_reach_solution": false
+            },
+            "S0_3": {
+                "can_reach_solution": false
+            },
+            "S0_4": {
+                "can_reach_solution": false
+            },
+            "S0_5": {
+                "can_reach_solution": false
+            },
+            "S0_6": {
+                "can_reach_solution": false
+            },
+            "S0_7": {
+                "can_reach_solution": false
+            },
+            "S0_8": {
+                "can_reach_solution": false
+            },
+            "S0_9": {
+                "can_reach_solution": false
+            },
+            "S0_10": {
+                "can_reach_solution": false
+            },
+            "S0_11": {
+                "can_reach_solution": false
+            },
+            "S0_12": {
+                "can_reach_solution": false
+            },
+            "S0_13": {
+                "can_reach_solution": false
+            },
+            "S0_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H1": {
+        "super_nodes": {
+            "S1_0": {
+                "can_reach_solution": false
+            },
+            "S1_1": {
+                "can_reach_solution": false
+            },
+            "S1_2": {
+                "can_reach_solution": false
+            },
+            "S1_3": {
+                "can_reach_solution": false
+            },
+            "S1_4": {
+                "can_reach_solution": false
+            },
+            "S1_5": {
+                "can_reach_solution": false
+            },
+            "S1_6": {
+                "can_reach_solution": false
+            },
+            "S1_7": {
+                "can_reach_solution": false
+            },
+            "S1_8": {
+                "can_reach_solution": false
+            },
+            "S1_9": {
+                "can_reach_solution": false
+            },
+            "S1_10": {
+                "can_reach_solution": false
+            },
+            "S1_11": {
+                "can_reach_solution": false
+            },
+            "S1_12": {
+                "can_reach_solution": false
+            },
+            "S1_13": {
+                "can_reach_solution": false
+            },
+            "S1_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H2": {
+        "super_nodes": {
+            "S2_0": {
+                "can_reach_solution": false
+            },
+            "S2_1": {
+                "can_reach_solution": false
+            },
+            "S2_2": {
+                "can_reach_solution": false
+            },
+            "S2_3": {
+                "can_reach_solution": false
+            },
+            "S2_4": {
+                "can_reach_solution": false
+            },
+            "S2_5": {
+                "can_reach_solution": false
+            },
+            "S2_6": {
+                "can_reach_solution": false
+            },
+            "S2_7": {
+                "can_reach_solution": false
+            },
+            "S2_8": {
+                "can_reach_solution": false
+            },
+            "S2_9": {
+                "can_reach_solution": false
+            },
+            "S2_10": {
+                "can_reach_solution": false
+            },
+            "S2_11": {
+                "can_reach_solution": false
+            },
+            "S2_12": {
+                "can_reach_solution": false
+            },
+            "S2_13": {
+                "can_reach_solution": false
+            },
+            "S2_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H3": {
+        "super_nodes": {
+            "S3_0": {
+                "can_reach_solution": false
+            },
+            "S3_1": {
+                "can_reach_solution": false
+            },
+            "S3_2": {
+                "can_reach_solution": false
+            },
+            "S3_3": {
+                "can_reach_solution": false
+            },
+            "S3_4": {
+                "can_reach_solution": false
+            },
+            "S3_5": {
+                "can_reach_solution": false
+            },
+            "S3_6": {
+                "can_reach_solution": false
+            },
+            "S3_7": {
+                "can_reach_solution": false
+            },
+            "S3_8": {
+                "can_reach_solution": false
+            },
+            "S3_9": {
+                "can_reach_solution": false
+            },
+            "S3_10": {
+                "can_reach_solution": false
+            },
+            "S3_11": {
+                "can_reach_solution": false
+            },
+            "S3_12": {
+                "can_reach_solution": false
+            },
+            "S3_13": {
+                "can_reach_solution": false
+            },
+            "S3_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H4": {
+        "super_nodes": {
+            "S4_0": {
+                "can_reach_solution": false
+            },
+            "S4_1": {
+                "can_reach_solution": false
+            },
+            "S4_2": {
+                "can_reach_solution": false
+            },
+            "S4_3": {
+                "can_reach_solution": false
+            },
+            "S4_4": {
+                "can_reach_solution": false
+            },
+            "S4_5": {
+                "can_reach_solution": false
+            },
+            "S4_6": {
+                "can_reach_solution": false
+            },
+            "S4_7": {
+                "can_reach_solution": false
+            },
+            "S4_8": {
+                "can_reach_solution": false
+            },
+            "S4_9": {
+                "can_reach_solution": false
+            },
+            "S4_10": {
+                "can_reach_solution": false
+            },
+            "S4_11": {
+                "can_reach_solution": false
+            },
+            "S4_12": {
+                "can_reach_solution": false
+            },
+            "S4_13": {
+                "can_reach_solution": false
+            },
+            "S4_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H5": {
+        "super_nodes": {
+            "S5_0": {
+                "can_reach_solution": false
+            },
+            "S5_1": {
+                "can_reach_solution": false
+            },
+            "S5_2": {
+                "can_reach_solution": false
+            },
+            "S5_3": {
+                "can_reach_solution": false
+            },
+            "S5_4": {
+                "can_reach_solution": false
+            },
+            "S5_5": {
+                "can_reach_solution": false
+            },
+            "S5_6": {
+                "can_reach_solution": false
+            },
+            "S5_7": {
+                "can_reach_solution": false
+            },
+            "S5_8": {
+                "can_reach_solution": false
+            },
+            "S5_9": {
+                "can_reach_solution": false
+            },
+            "S5_10": {
+                "can_reach_solution": false
+            },
+            "S5_11": {
+                "can_reach_solution": false
+            },
+            "S5_12": {
+                "can_reach_solution": false
+            },
+            "S5_13": {
+                "can_reach_solution": false
+            },
+            "S5_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H6": {
+        "super_nodes": {
+            "S6_0": {
+                "can_reach_solution": false
+            },
+            "S6_1": {
+                "can_reach_solution": false
+            },
+            "S6_2": {
+                "can_reach_solution": false
+            },
+            "S6_3": {
+                "can_reach_solution": false
+            },
+            "S6_4": {
+                "can_reach_solution": false
+            },
+            "S6_5": {
+                "can_reach_solution": false
+            },
+            "S6_6": {
+                "can_reach_solution": false
+            },
+            "S6_7": {
+                "can_reach_solution": false
+            },
+            "S6_8": {
+                "can_reach_solution": false
+            },
+            "S6_9": {
+                "can_reach_solution": false
+            },
+            "S6_10": {
+                "can_reach_solution": false
+            },
+            "S6_11": {
+                "can_reach_solution": false
+            },
+            "S6_12": {
+                "can_reach_solution": false
+            },
+            "S6_13": {
+                "can_reach_solution": false
+            },
+            "S6_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H7": {
+        "super_nodes": {
+            "S7_0": {
+                "can_reach_solution": false
+            },
+            "S7_1": {
+                "can_reach_solution": false
+            },
+            "S7_2": {
+                "can_reach_solution": false
+            },
+            "S7_3": {
+                "can_reach_solution": false
+            },
+            "S7_4": {
+                "can_reach_solution": false
+            },
+            "S7_5": {
+                "can_reach_solution": false
+            },
+            "S7_6": {
+                "can_reach_solution": false
+            },
+            "S7_7": {
+                "can_reach_solution": false
+            },
+            "S7_8": {
+                "can_reach_solution": false
+            },
+            "S7_9": {
+                "can_reach_solution": false
+            },
+            "S7_10": {
+                "can_reach_solution": false
+            },
+            "S7_11": {
+                "can_reach_solution": false
+            },
+            "S7_12": {
+                "can_reach_solution": false
+            },
+            "S7_13": {
+                "can_reach_solution": false
+            },
+            "S7_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H8": {
+        "super_nodes": {
+            "S8_0": {
+                "can_reach_solution": false
+            },
+            "S8_1": {
+                "can_reach_solution": false
+            },
+            "S8_2": {
+                "can_reach_solution": false
+            },
+            "S8_3": {
+                "can_reach_solution": false
+            },
+            "S8_4": {
+                "can_reach_solution": false
+            },
+            "S8_5": {
+                "can_reach_solution": false
+            },
+            "S8_6": {
+                "can_reach_solution": false
+            },
+            "S8_7": {
+                "can_reach_solution": false
+            },
+            "S8_8": {
+                "can_reach_solution": false
+            },
+            "S8_9": {
+                "can_reach_solution": false
+            },
+            "S8_10": {
+                "can_reach_solution": false
+            },
+            "S8_11": {
+                "can_reach_solution": false
+            },
+            "S8_12": {
+                "can_reach_solution": false
+            },
+            "S8_13": {
+                "can_reach_solution": false
+            },
+            "S8_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H9": {
+        "super_nodes": {
+            "S9_0": {
+                "can_reach_solution": false
+            },
+            "S9_1": {
+                "can_reach_solution": false
+            },
+            "S9_2": {
+                "can_reach_solution": false
+            },
+            "S9_3": {
+                "can_reach_solution": false
+            },
+            "S9_4": {
+                "can_reach_solution": false
+            },
+            "S9_5": {
+                "can_reach_solution": false
+            },
+            "S9_6": {
+                "can_reach_solution": false
+            },
+            "S9_7": {
+                "can_reach_solution": false
+            },
+            "S9_8": {
+                "can_reach_solution": false
+            },
+            "S9_9": {
+                "can_reach_solution": false
+            },
+            "S9_10": {
+                "can_reach_solution": false
+            },
+            "S9_11": {
+                "can_reach_solution": false
+            },
+            "S9_12": {
+                "can_reach_solution": false
+            },
+            "S9_13": {
+                "can_reach_solution": false
+            },
+            "S9_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H10": {
+        "super_nodes": {
+            "S10_0": {
+                "can_reach_solution": false
+            },
+            "S10_1": {
+                "can_reach_solution": false
+            },
+            "S10_2": {
+                "can_reach_solution": false
+            },
+            "S10_3": {
+                "can_reach_solution": false
+            },
+            "S10_4": {
+                "can_reach_solution": false
+            },
+            "S10_5": {
+                "can_reach_solution": false
+            },
+            "S10_6": {
+                "can_reach_solution": false
+            },
+            "S10_7": {
+                "can_reach_solution": false
+            },
+            "S10_8": {
+                "can_reach_solution": false
+            },
+            "S10_9": {
+                "can_reach_solution": false
+            },
+            "S10_10": {
+                "can_reach_solution": false
+            },
+            "S10_11": {
+                "can_reach_solution": false
+            },
+            "S10_12": {
+                "can_reach_solution": false
+            },
+            "S10_13": {
+                "can_reach_solution": false
+            },
+            "S10_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H11": {
+        "super_nodes": {
+            "S11_0": {
+                "can_reach_solution": false
+            },
+            "S11_1": {
+                "can_reach_solution": false
+            },
+            "S11_2": {
+                "can_reach_solution": false
+            },
+            "S11_3": {
+                "can_reach_solution": false
+            },
+            "S11_4": {
+                "can_reach_solution": false
+            },
+            "S11_5": {
+                "can_reach_solution": false
+            },
+            "S11_6": {
+                "can_reach_solution": false
+            },
+            "S11_7": {
+                "can_reach_solution": false
+            },
+            "S11_8": {
+                "can_reach_solution": false
+            },
+            "S11_9": {
+                "can_reach_solution": false
+            },
+            "S11_10": {
+                "can_reach_solution": false
+            },
+            "S11_11": {
+                "can_reach_solution": false
+            },
+            "S11_12": {
+                "can_reach_solution": false
+            },
+            "S11_13": {
+                "can_reach_solution": false
+            },
+            "S11_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H12": {
+        "super_nodes": {
+            "S12_0": {
+                "can_reach_solution": false
+            },
+            "S12_1": {
+                "can_reach_solution": false
+            },
+            "S12_2": {
+                "can_reach_solution": false
+            },
+            "S12_3": {
+                "can_reach_solution": false
+            },
+            "S12_4": {
+                "can_reach_solution": false
+            },
+            "S12_5": {
+                "can_reach_solution": false
+            },
+            "S12_6": {
+                "can_reach_solution": false
+            },
+            "S12_7": {
+                "can_reach_solution": false
+            },
+            "S12_8": {
+                "can_reach_solution": false
+            },
+            "S12_9": {
+                "can_reach_solution": false
+            },
+            "S12_10": {
+                "can_reach_solution": false
+            },
+            "S12_11": {
+                "can_reach_solution": false
+            },
+            "S12_12": {
+                "can_reach_solution": false
+            },
+            "S12_13": {
+                "can_reach_solution": false
+            },
+            "S12_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H13": {
+        "super_nodes": {
+            "S13_0": {
+                "can_reach_solution": false
+            },
+            "S13_1": {
+                "can_reach_solution": false
+            },
+            "S13_2": {
+                "can_reach_solution": false
+            },
+            "S13_3": {
+                "can_reach_solution": false
+            },
+            "S13_4": {
+                "can_reach_solution": false
+            },
+            "S13_5": {
+                "can_reach_solution": false
+            },
+            "S13_6": {
+                "can_reach_solution": false
+            },
+            "S13_7": {
+                "can_reach_solution": false
+            },
+            "S13_8": {
+                "can_reach_solution": false
+            },
+            "S13_9": {
+                "can_reach_solution": false
+            },
+            "S13_10": {
+                "can_reach_solution": false
+            },
+            "S13_11": {
+                "can_reach_solution": false
+            },
+            "S13_12": {
+                "can_reach_solution": false
+            },
+            "S13_13": {
+                "can_reach_solution": false
+            },
+            "S13_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H14": {
+        "super_nodes": {
+            "S14_0": {
+                "can_reach_solution": false
+            },
+            "S14_1": {
+                "can_reach_solution": false
+            },
+            "S14_2": {
+                "can_reach_solution": false
+            },
+            "S14_3": {
+                "can_reach_solution": false
+            },
+            "S14_4": {
+                "can_reach_solution": false
+            },
+            "S14_5": {
+                "can_reach_solution": false
+            },
+            "S14_6": {
+                "can_reach_solution": false
+            },
+            "S14_7": {
+                "can_reach_solution": false
+            },
+            "S14_8": {
+                "can_reach_solution": false
+            },
+            "S14_9": {
+                "can_reach_solution": false
+            },
+            "S14_10": {
+                "can_reach_solution": false
+            },
+            "S14_11": {
+                "can_reach_solution": false
+            },
+            "S14_12": {
+                "can_reach_solution": false
+            },
+            "S14_13": {
+                "can_reach_solution": false
+            },
+            "S14_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H15": {
+        "super_nodes": {
+            "S15_0": {
+                "can_reach_solution": false
+            },
+            "S15_1": {
+                "can_reach_solution": false
+            },
+            "S15_2": {
+                "can_reach_solution": false
+            },
+            "S15_3": {
+                "can_reach_solution": false
+            },
+            "S15_4": {
+                "can_reach_solution": false
+            },
+            "S15_5": {
+                "can_reach_solution": false
+            },
+            "S15_6": {
+                "can_reach_solution": false
+            },
+            "S15_7": {
+                "can_reach_solution": false
+            },
+            "S15_8": {
+                "can_reach_solution": false
+            },
+            "S15_9": {
+                "can_reach_solution": false
+            },
+            "S15_10": {
+                "can_reach_solution": false
+            },
+            "S15_11": {
+                "can_reach_solution": false
+            },
+            "S15_12": {
+                "can_reach_solution": false
+            },
+            "S15_13": {
+                "can_reach_solution": false
+            },
+            "S15_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H16": {
+        "super_nodes": {
+            "S16_0": {
+                "can_reach_solution": false
+            },
+            "S16_1": {
+                "can_reach_solution": false
+            },
+            "S16_2": {
+                "can_reach_solution": false
+            },
+            "S16_3": {
+                "can_reach_solution": false
+            },
+            "S16_4": {
+                "can_reach_solution": false
+            },
+            "S16_5": {
+                "can_reach_solution": false
+            },
+            "S16_6": {
+                "can_reach_solution": false
+            },
+            "S16_7": {
+                "can_reach_solution": false
+            },
+            "S16_8": {
+                "can_reach_solution": false
+            },
+            "S16_9": {
+                "can_reach_solution": false
+            },
+            "S16_10": {
+                "can_reach_solution": false
+            },
+            "S16_11": {
+                "can_reach_solution": false
+            },
+            "S16_12": {
+                "can_reach_solution": false
+            },
+            "S16_13": {
+                "can_reach_solution": false
+            },
+            "S16_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H17": {
+        "super_nodes": {
+            "S17_0": {
+                "can_reach_solution": false
+            },
+            "S17_1": {
+                "can_reach_solution": false
+            },
+            "S17_2": {
+                "can_reach_solution": false
+            },
+            "S17_3": {
+                "can_reach_solution": false
+            },
+            "S17_4": {
+                "can_reach_solution": false
+            },
+            "S17_5": {
+                "can_reach_solution": false
+            },
+            "S17_6": {
+                "can_reach_solution": false
+            },
+            "S17_7": {
+                "can_reach_solution": false
+            },
+            "S17_8": {
+                "can_reach_solution": false
+            },
+            "S17_9": {
+                "can_reach_solution": false
+            },
+            "S17_10": {
+                "can_reach_solution": false
+            },
+            "S17_11": {
+                "can_reach_solution": false
+            },
+            "S17_12": {
+                "can_reach_solution": false
+            },
+            "S17_13": {
+                "can_reach_solution": false
+            },
+            "S17_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H18": {
+        "super_nodes": {
+            "S18_0": {
+                "can_reach_solution": false
+            },
+            "S18_1": {
+                "can_reach_solution": false
+            },
+            "S18_2": {
+                "can_reach_solution": false
+            },
+            "S18_3": {
+                "can_reach_solution": false
+            },
+            "S18_4": {
+                "can_reach_solution": false
+            },
+            "S18_5": {
+                "can_reach_solution": false
+            },
+            "S18_6": {
+                "can_reach_solution": false
+            },
+            "S18_7": {
+                "can_reach_solution": false
+            },
+            "S18_8": {
+                "can_reach_solution": false
+            },
+            "S18_9": {
+                "can_reach_solution": false
+            },
+            "S18_10": {
+                "can_reach_solution": false
+            },
+            "S18_11": {
+                "can_reach_solution": false
+            },
+            "S18_12": {
+                "can_reach_solution": false
+            },
+            "S18_13": {
+                "can_reach_solution": false
+            },
+            "S18_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H19": {
+        "super_nodes": {
+            "S19_0": {
+                "can_reach_solution": false
+            },
+            "S19_1": {
+                "can_reach_solution": false
+            },
+            "S19_2": {
+                "can_reach_solution": false
+            },
+            "S19_3": {
+                "can_reach_solution": false
+            },
+            "S19_4": {
+                "can_reach_solution": false
+            },
+            "S19_5": {
+                "can_reach_solution": false
+            },
+            "S19_6": {
+                "can_reach_solution": false
+            },
+            "S19_7": {
+                "can_reach_solution": false
+            },
+            "S19_8": {
+                "can_reach_solution": false
+            },
+            "S19_9": {
+                "can_reach_solution": false
+            },
+            "S19_10": {
+                "can_reach_solution": false
+            },
+            "S19_11": {
+                "can_reach_solution": false
+            },
+            "S19_12": {
+                "can_reach_solution": false
+            },
+            "S19_13": {
+                "can_reach_solution": false
+            },
+            "S19_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H20": {
+        "super_nodes": {
+            "S20_0": {
+                "can_reach_solution": false
+            },
+            "S20_1": {
+                "can_reach_solution": false
+            },
+            "S20_2": {
+                "can_reach_solution": false
+            },
+            "S20_3": {
+                "can_reach_solution": false
+            },
+            "S20_4": {
+                "can_reach_solution": false
+            },
+            "S20_5": {
+                "can_reach_solution": false
+            },
+            "S20_6": {
+                "can_reach_solution": false
+            },
+            "S20_7": {
+                "can_reach_solution": false
+            },
+            "S20_8": {
+                "can_reach_solution": false
+            },
+            "S20_9": {
+                "can_reach_solution": false
+            },
+            "S20_10": {
+                "can_reach_solution": false
+            },
+            "S20_11": {
+                "can_reach_solution": false
+            },
+            "S20_12": {
+                "can_reach_solution": false
+            },
+            "S20_13": {
+                "can_reach_solution": false
+            },
+            "S20_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H21": {
+        "super_nodes": {
+            "S21_0": {
+                "can_reach_solution": false
+            },
+            "S21_1": {
+                "can_reach_solution": false
+            },
+            "S21_2": {
+                "can_reach_solution": false
+            },
+            "S21_3": {
+                "can_reach_solution": false
+            },
+            "S21_4": {
+                "can_reach_solution": false
+            },
+            "S21_5": {
+                "can_reach_solution": false
+            },
+            "S21_6": {
+                "can_reach_solution": false
+            },
+            "S21_7": {
+                "can_reach_solution": false
+            },
+            "S21_8": {
+                "can_reach_solution": false
+            },
+            "S21_9": {
+                "can_reach_solution": false
+            },
+            "S21_10": {
+                "can_reach_solution": false
+            },
+            "S21_11": {
+                "can_reach_solution": false
+            },
+            "S21_12": {
+                "can_reach_solution": false
+            },
+            "S21_13": {
+                "can_reach_solution": false
+            },
+            "S21_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H22": {
+        "super_nodes": {
+            "S22_0": {
+                "can_reach_solution": false
+            },
+            "S22_1": {
+                "can_reach_solution": false
+            },
+            "S22_2": {
+                "can_reach_solution": false
+            },
+            "S22_3": {
+                "can_reach_solution": false
+            },
+            "S22_4": {
+                "can_reach_solution": false
+            },
+            "S22_5": {
+                "can_reach_solution": false
+            },
+            "S22_6": {
+                "can_reach_solution": false
+            },
+            "S22_7": {
+                "can_reach_solution": false
+            },
+            "S22_8": {
+                "can_reach_solution": false
+            },
+            "S22_9": {
+                "can_reach_solution": false
+            },
+            "S22_10": {
+                "can_reach_solution": false
+            },
+            "S22_11": {
+                "can_reach_solution": false
+            },
+            "S22_12": {
+                "can_reach_solution": false
+            },
+            "S22_13": {
+                "can_reach_solution": false
+            },
+            "S22_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H23": {
+        "super_nodes": {
+            "S23_0": {
+                "can_reach_solution": false
+            },
+            "S23_1": {
+                "can_reach_solution": false
+            },
+            "S23_2": {
+                "can_reach_solution": false
+            },
+            "S23_3": {
+                "can_reach_solution": false
+            },
+            "S23_4": {
+                "can_reach_solution": false
+            },
+            "S23_5": {
+                "can_reach_solution": false
+            },
+            "S23_6": {
+                "can_reach_solution": false
+            },
+            "S23_7": {
+                "can_reach_solution": false
+            },
+            "S23_8": {
+                "can_reach_solution": false
+            },
+            "S23_9": {
+                "can_reach_solution": false
+            },
+            "S23_10": {
+                "can_reach_solution": false
+            },
+            "S23_11": {
+                "can_reach_solution": false
+            },
+            "S23_12": {
+                "can_reach_solution": false
+            },
+            "S23_13": {
+                "can_reach_solution": false
+            },
+            "S23_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H24": {
+        "super_nodes": {
+            "S24_0": {
+                "can_reach_solution": false
+            },
+            "S24_1": {
+                "can_reach_solution": false
+            },
+            "S24_2": {
+                "can_reach_solution": false
+            },
+            "S24_3": {
+                "can_reach_solution": false
+            },
+            "S24_4": {
+                "can_reach_solution": false
+            },
+            "S24_5": {
+                "can_reach_solution": false
+            },
+            "S24_6": {
+                "can_reach_solution": false
+            },
+            "S24_7": {
+                "can_reach_solution": false
+            },
+            "S24_8": {
+                "can_reach_solution": false
+            },
+            "S24_9": {
+                "can_reach_solution": false
+            },
+            "S24_10": {
+                "can_reach_solution": false
+            },
+            "S24_11": {
+                "can_reach_solution": false
+            },
+            "S24_12": {
+                "can_reach_solution": false
+            },
+            "S24_13": {
+                "can_reach_solution": false
+            },
+            "S24_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H25": {
+        "super_nodes": {
+            "S25_0": {
+                "can_reach_solution": false
+            },
+            "S25_1": {
+                "can_reach_solution": false
+            },
+            "S25_2": {
+                "can_reach_solution": false
+            },
+            "S25_3": {
+                "can_reach_solution": false
+            },
+            "S25_4": {
+                "can_reach_solution": false
+            },
+            "S25_5": {
+                "can_reach_solution": false
+            },
+            "S25_6": {
+                "can_reach_solution": false
+            },
+            "S25_7": {
+                "can_reach_solution": false
+            },
+            "S25_8": {
+                "can_reach_solution": false
+            },
+            "S25_9": {
+                "can_reach_solution": false
+            },
+            "S25_10": {
+                "can_reach_solution": false
+            },
+            "S25_11": {
+                "can_reach_solution": false
+            },
+            "S25_12": {
+                "can_reach_solution": false
+            },
+            "S25_13": {
+                "can_reach_solution": false
+            },
+            "S25_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H26": {
+        "super_nodes": {
+            "S26_0": {
+                "can_reach_solution": false
+            },
+            "S26_1": {
+                "can_reach_solution": false
+            },
+            "S26_2": {
+                "can_reach_solution": false
+            },
+            "S26_3": {
+                "can_reach_solution": false
+            },
+            "S26_4": {
+                "can_reach_solution": false
+            },
+            "S26_5": {
+                "can_reach_solution": false
+            },
+            "S26_6": {
+                "can_reach_solution": false
+            },
+            "S26_7": {
+                "can_reach_solution": false
+            },
+            "S26_8": {
+                "can_reach_solution": false
+            },
+            "S26_9": {
+                "can_reach_solution": false
+            },
+            "S26_10": {
+                "can_reach_solution": false
+            },
+            "S26_11": {
+                "can_reach_solution": false
+            },
+            "S26_12": {
+                "can_reach_solution": false
+            },
+            "S26_13": {
+                "can_reach_solution": false
+            },
+            "S26_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H27": {
+        "super_nodes": {
+            "S27_0": {
+                "can_reach_solution": false
+            },
+            "S27_1": {
+                "can_reach_solution": false
+            },
+            "S27_2": {
+                "can_reach_solution": false
+            },
+            "S27_3": {
+                "can_reach_solution": false
+            },
+            "S27_4": {
+                "can_reach_solution": false
+            },
+            "S27_5": {
+                "can_reach_solution": false
+            },
+            "S27_6": {
+                "can_reach_solution": false
+            },
+            "S27_7": {
+                "can_reach_solution": false
+            },
+            "S27_8": {
+                "can_reach_solution": false
+            },
+            "S27_9": {
+                "can_reach_solution": false
+            },
+            "S27_10": {
+                "can_reach_solution": false
+            },
+            "S27_11": {
+                "can_reach_solution": false
+            },
+            "S27_12": {
+                "can_reach_solution": false
+            },
+            "S27_13": {
+                "can_reach_solution": false
+            },
+            "S27_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H28": {
+        "super_nodes": {
+            "S28_0": {
+                "can_reach_solution": false
+            },
+            "S28_1": {
+                "can_reach_solution": false
+            },
+            "S28_2": {
+                "can_reach_solution": false
+            },
+            "S28_3": {
+                "can_reach_solution": false
+            },
+            "S28_4": {
+                "can_reach_solution": false
+            },
+            "S28_5": {
+                "can_reach_solution": false
+            },
+            "S28_6": {
+                "can_reach_solution": false
+            },
+            "S28_7": {
+                "can_reach_solution": false
+            },
+            "S28_8": {
+                "can_reach_solution": false
+            },
+            "S28_9": {
+                "can_reach_solution": false
+            },
+            "S28_10": {
+                "can_reach_solution": false
+            },
+            "S28_11": {
+                "can_reach_solution": false
+            },
+            "S28_12": {
+                "can_reach_solution": false
+            },
+            "S28_13": {
+                "can_reach_solution": false
+            },
+            "S28_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H29": {
+        "super_nodes": {
+            "S29_0": {
+                "can_reach_solution": false
+            },
+            "S29_1": {
+                "can_reach_solution": false
+            },
+            "S29_2": {
+                "can_reach_solution": false
+            },
+            "S29_3": {
+                "can_reach_solution": false
+            },
+            "S29_4": {
+                "can_reach_solution": false
+            },
+            "S29_5": {
+                "can_reach_solution": false
+            },
+            "S29_6": {
+                "can_reach_solution": false
+            },
+            "S29_7": {
+                "can_reach_solution": false
+            },
+            "S29_8": {
+                "can_reach_solution": false
+            },
+            "S29_9": {
+                "can_reach_solution": false
+            },
+            "S29_10": {
+                "can_reach_solution": false
+            },
+            "S29_11": {
+                "can_reach_solution": false
+            },
+            "S29_12": {
+                "can_reach_solution": false
+            },
+            "S29_13": {
+                "can_reach_solution": false
+            },
+            "S29_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H30": {
+        "super_nodes": {
+            "S30_0": {
+                "can_reach_solution": false
+            },
+            "S30_1": {
+                "can_reach_solution": false
+            },
+            "S30_2": {
+                "can_reach_solution": false
+            },
+            "S30_3": {
+                "can_reach_solution": false
+            },
+            "S30_4": {
+                "can_reach_solution": false
+            },
+            "S30_5": {
+                "can_reach_solution": false
+            },
+            "S30_6": {
+                "can_reach_solution": false
+            },
+            "S30_7": {
+                "can_reach_solution": false
+            },
+            "S30_8": {
+                "can_reach_solution": false
+            },
+            "S30_9": {
+                "can_reach_solution": false
+            },
+            "S30_10": {
+                "can_reach_solution": false
+            },
+            "S30_11": {
+                "can_reach_solution": false
+            },
+            "S30_12": {
+                "can_reach_solution": false
+            },
+            "S30_13": {
+                "can_reach_solution": false
+            },
+            "S30_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H31": {
+        "super_nodes": {
+            "S31_0": {
+                "can_reach_solution": false
+            },
+            "S31_1": {
+                "can_reach_solution": false
+            },
+            "S31_2": {
+                "can_reach_solution": false
+            },
+            "S31_3": {
+                "can_reach_solution": false
+            },
+            "S31_4": {
+                "can_reach_solution": false
+            },
+            "S31_5": {
+                "can_reach_solution": false
+            },
+            "S31_6": {
+                "can_reach_solution": false
+            },
+            "S31_7": {
+                "can_reach_solution": false
+            },
+            "S31_8": {
+                "can_reach_solution": false
+            },
+            "S31_9": {
+                "can_reach_solution": false
+            },
+            "S31_10": {
+                "can_reach_solution": false
+            },
+            "S31_11": {
+                "can_reach_solution": false
+            },
+            "S31_12": {
+                "can_reach_solution": false
+            },
+            "S31_13": {
+                "can_reach_solution": false
+            },
+            "S31_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H32": {
+        "super_nodes": {
+            "S32_0": {
+                "can_reach_solution": false
+            },
+            "S32_1": {
+                "can_reach_solution": false
+            },
+            "S32_2": {
+                "can_reach_solution": false
+            },
+            "S32_3": {
+                "can_reach_solution": false
+            },
+            "S32_4": {
+                "can_reach_solution": false
+            },
+            "S32_5": {
+                "can_reach_solution": false
+            },
+            "S32_6": {
+                "can_reach_solution": false
+            },
+            "S32_7": {
+                "can_reach_solution": false
+            },
+            "S32_8": {
+                "can_reach_solution": false
+            },
+            "S32_9": {
+                "can_reach_solution": false
+            },
+            "S32_10": {
+                "can_reach_solution": false
+            },
+            "S32_11": {
+                "can_reach_solution": false
+            },
+            "S32_12": {
+                "can_reach_solution": false
+            },
+            "S32_13": {
+                "can_reach_solution": false
+            },
+            "S32_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H33": {
+        "super_nodes": {
+            "S33_0": {
+                "can_reach_solution": false
+            },
+            "S33_1": {
+                "can_reach_solution": false
+            },
+            "S33_2": {
+                "can_reach_solution": false
+            },
+            "S33_3": {
+                "can_reach_solution": false
+            },
+            "S33_4": {
+                "can_reach_solution": false
+            },
+            "S33_5": {
+                "can_reach_solution": false
+            },
+            "S33_6": {
+                "can_reach_solution": false
+            },
+            "S33_7": {
+                "can_reach_solution": false
+            },
+            "S33_8": {
+                "can_reach_solution": false
+            },
+            "S33_9": {
+                "can_reach_solution": false
+            },
+            "S33_10": {
+                "can_reach_solution": false
+            },
+            "S33_11": {
+                "can_reach_solution": false
+            },
+            "S33_12": {
+                "can_reach_solution": false
+            },
+            "S33_13": {
+                "can_reach_solution": false
+            },
+            "S33_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H34": {
+        "super_nodes": {
+            "S34_0": {
+                "can_reach_solution": false
+            },
+            "S34_1": {
+                "can_reach_solution": false
+            },
+            "S34_2": {
+                "can_reach_solution": false
+            },
+            "S34_3": {
+                "can_reach_solution": false
+            },
+            "S34_4": {
+                "can_reach_solution": false
+            },
+            "S34_5": {
+                "can_reach_solution": false
+            },
+            "S34_6": {
+                "can_reach_solution": false
+            },
+            "S34_7": {
+                "can_reach_solution": false
+            },
+            "S34_8": {
+                "can_reach_solution": false
+            },
+            "S34_9": {
+                "can_reach_solution": false
+            },
+            "S34_10": {
+                "can_reach_solution": false
+            },
+            "S34_11": {
+                "can_reach_solution": false
+            },
+            "S34_12": {
+                "can_reach_solution": false
+            },
+            "S34_13": {
+                "can_reach_solution": false
+            },
+            "S34_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H35": {
+        "super_nodes": {
+            "S35_0": {
+                "can_reach_solution": false
+            },
+            "S35_1": {
+                "can_reach_solution": false
+            },
+            "S35_2": {
+                "can_reach_solution": false
+            },
+            "S35_3": {
+                "can_reach_solution": false
+            },
+            "S35_4": {
+                "can_reach_solution": false
+            },
+            "S35_5": {
+                "can_reach_solution": false
+            },
+            "S35_6": {
+                "can_reach_solution": false
+            },
+            "S35_7": {
+                "can_reach_solution": false
+            },
+            "S35_8": {
+                "can_reach_solution": false
+            },
+            "S35_9": {
+                "can_reach_solution": false
+            },
+            "S35_10": {
+                "can_reach_solution": false
+            },
+            "S35_11": {
+                "can_reach_solution": false
+            },
+            "S35_12": {
+                "can_reach_solution": false
+            },
+            "S35_13": {
+                "can_reach_solution": false
+            },
+            "S35_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H36": {
+        "super_nodes": {
+            "S36_0": {
+                "can_reach_solution": false
+            },
+            "S36_1": {
+                "can_reach_solution": false
+            },
+            "S36_2": {
+                "can_reach_solution": false
+            },
+            "S36_3": {
+                "can_reach_solution": false
+            },
+            "S36_4": {
+                "can_reach_solution": false
+            },
+            "S36_5": {
+                "can_reach_solution": false
+            },
+            "S36_6": {
+                "can_reach_solution": false
+            },
+            "S36_7": {
+                "can_reach_solution": false
+            },
+            "S36_8": {
+                "can_reach_solution": false
+            },
+            "S36_9": {
+                "can_reach_solution": false
+            },
+            "S36_10": {
+                "can_reach_solution": false
+            },
+            "S36_11": {
+                "can_reach_solution": false
+            },
+            "S36_12": {
+                "can_reach_solution": false
+            },
+            "S36_13": {
+                "can_reach_solution": false
+            },
+            "S36_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H37": {
+        "super_nodes": {
+            "S37_0": {
+                "can_reach_solution": false
+            },
+            "S37_1": {
+                "can_reach_solution": false
+            },
+            "S37_2": {
+                "can_reach_solution": false
+            },
+            "S37_3": {
+                "can_reach_solution": false
+            },
+            "S37_4": {
+                "can_reach_solution": false
+            },
+            "S37_5": {
+                "can_reach_solution": false
+            },
+            "S37_6": {
+                "can_reach_solution": false
+            },
+            "S37_7": {
+                "can_reach_solution": false
+            },
+            "S37_8": {
+                "can_reach_solution": false
+            },
+            "S37_9": {
+                "can_reach_solution": false
+            },
+            "S37_10": {
+                "can_reach_solution": false
+            },
+            "S37_11": {
+                "can_reach_solution": false
+            },
+            "S37_12": {
+                "can_reach_solution": false
+            },
+            "S37_13": {
+                "can_reach_solution": false
+            },
+            "S37_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H38": {
+        "super_nodes": {
+            "S38_0": {
+                "can_reach_solution": false
+            },
+            "S38_1": {
+                "can_reach_solution": false
+            },
+            "S38_2": {
+                "can_reach_solution": false
+            },
+            "S38_3": {
+                "can_reach_solution": false
+            },
+            "S38_4": {
+                "can_reach_solution": false
+            },
+            "S38_5": {
+                "can_reach_solution": false
+            },
+            "S38_6": {
+                "can_reach_solution": false
+            },
+            "S38_7": {
+                "can_reach_solution": false
+            },
+            "S38_8": {
+                "can_reach_solution": false
+            },
+            "S38_9": {
+                "can_reach_solution": false
+            },
+            "S38_10": {
+                "can_reach_solution": false
+            },
+            "S38_11": {
+                "can_reach_solution": false
+            },
+            "S38_12": {
+                "can_reach_solution": false
+            },
+            "S38_13": {
+                "can_reach_solution": false
+            },
+            "S38_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H39": {
+        "super_nodes": {
+            "S39_0": {
+                "can_reach_solution": false
+            },
+            "S39_1": {
+                "can_reach_solution": false
+            },
+            "S39_2": {
+                "can_reach_solution": false
+            },
+            "S39_3": {
+                "can_reach_solution": false
+            },
+            "S39_4": {
+                "can_reach_solution": false
+            },
+            "S39_5": {
+                "can_reach_solution": false
+            },
+            "S39_6": {
+                "can_reach_solution": false
+            },
+            "S39_7": {
+                "can_reach_solution": false
+            },
+            "S39_8": {
+                "can_reach_solution": false
+            },
+            "S39_9": {
+                "can_reach_solution": false
+            },
+            "S39_10": {
+                "can_reach_solution": false
+            },
+            "S39_11": {
+                "can_reach_solution": false
+            },
+            "S39_12": {
+                "can_reach_solution": false
+            },
+            "S39_13": {
+                "can_reach_solution": false
+            },
+            "S39_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H40": {
+        "super_nodes": {
+            "S40_0": {
+                "can_reach_solution": false
+            },
+            "S40_1": {
+                "can_reach_solution": false
+            },
+            "S40_2": {
+                "can_reach_solution": false
+            },
+            "S40_3": {
+                "can_reach_solution": false
+            },
+            "S40_4": {
+                "can_reach_solution": false
+            },
+            "S40_5": {
+                "can_reach_solution": false
+            },
+            "S40_6": {
+                "can_reach_solution": false
+            },
+            "S40_7": {
+                "can_reach_solution": false
+            },
+            "S40_8": {
+                "can_reach_solution": false
+            },
+            "S40_9": {
+                "can_reach_solution": false
+            },
+            "S40_10": {
+                "can_reach_solution": false
+            },
+            "S40_11": {
+                "can_reach_solution": false
+            },
+            "S40_12": {
+                "can_reach_solution": false
+            },
+            "S40_13": {
+                "can_reach_solution": false
+            },
+            "S40_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H41": {
+        "super_nodes": {
+            "S41_0": {
+                "can_reach_solution": false
+            },
+            "S41_1": {
+                "can_reach_solution": false
+            },
+            "S41_2": {
+                "can_reach_solution": false
+            },
+            "S41_3": {
+                "can_reach_solution": false
+            },
+            "S41_4": {
+                "can_reach_solution": false
+            },
+            "S41_5": {
+                "can_reach_solution": false
+            },
+            "S41_6": {
+                "can_reach_solution": false
+            },
+            "S41_7": {
+                "can_reach_solution": false
+            },
+            "S41_8": {
+                "can_reach_solution": false
+            },
+            "S41_9": {
+                "can_reach_solution": false
+            },
+            "S41_10": {
+                "can_reach_solution": false
+            },
+            "S41_11": {
+                "can_reach_solution": false
+            },
+            "S41_12": {
+                "can_reach_solution": false
+            },
+            "S41_13": {
+                "can_reach_solution": false
+            },
+            "S41_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H42": {
+        "super_nodes": {
+            "S42_0": {
+                "can_reach_solution": false
+            },
+            "S42_1": {
+                "can_reach_solution": false
+            },
+            "S42_2": {
+                "can_reach_solution": false
+            },
+            "S42_3": {
+                "can_reach_solution": false
+            },
+            "S42_4": {
+                "can_reach_solution": false
+            },
+            "S42_5": {
+                "can_reach_solution": false
+            },
+            "S42_6": {
+                "can_reach_solution": false
+            },
+            "S42_7": {
+                "can_reach_solution": false
+            },
+            "S42_8": {
+                "can_reach_solution": false
+            },
+            "S42_9": {
+                "can_reach_solution": false
+            },
+            "S42_10": {
+                "can_reach_solution": false
+            },
+            "S42_11": {
+                "can_reach_solution": false
+            },
+            "S42_12": {
+                "can_reach_solution": false
+            },
+            "S42_13": {
+                "can_reach_solution": false
+            },
+            "S42_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H43": {
+        "super_nodes": {
+            "S43_0": {
+                "can_reach_solution": false
+            },
+            "S43_1": {
+                "can_reach_solution": false
+            },
+            "S43_2": {
+                "can_reach_solution": false
+            },
+            "S43_3": {
+                "can_reach_solution": false
+            },
+            "S43_4": {
+                "can_reach_solution": false
+            },
+            "S43_5": {
+                "can_reach_solution": false
+            },
+            "S43_6": {
+                "can_reach_solution": false
+            },
+            "S43_7": {
+                "can_reach_solution": false
+            },
+            "S43_8": {
+                "can_reach_solution": false
+            },
+            "S43_9": {
+                "can_reach_solution": false
+            },
+            "S43_10": {
+                "can_reach_solution": false
+            },
+            "S43_11": {
+                "can_reach_solution": false
+            },
+            "S43_12": {
+                "can_reach_solution": false
+            },
+            "S43_13": {
+                "can_reach_solution": false
+            },
+            "S43_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H44": {
+        "super_nodes": {
+            "S44_0": {
+                "can_reach_solution": false
+            },
+            "S44_1": {
+                "can_reach_solution": false
+            },
+            "S44_2": {
+                "can_reach_solution": false
+            },
+            "S44_3": {
+                "can_reach_solution": false
+            },
+            "S44_4": {
+                "can_reach_solution": false
+            },
+            "S44_5": {
+                "can_reach_solution": false
+            },
+            "S44_6": {
+                "can_reach_solution": false
+            },
+            "S44_7": {
+                "can_reach_solution": false
+            },
+            "S44_8": {
+                "can_reach_solution": false
+            },
+            "S44_9": {
+                "can_reach_solution": false
+            },
+            "S44_10": {
+                "can_reach_solution": false
+            },
+            "S44_11": {
+                "can_reach_solution": false
+            },
+            "S44_12": {
+                "can_reach_solution": false
+            },
+            "S44_13": {
+                "can_reach_solution": false
+            },
+            "S44_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H45": {
+        "super_nodes": {
+            "S45_0": {
+                "can_reach_solution": false
+            },
+            "S45_1": {
+                "can_reach_solution": false
+            },
+            "S45_2": {
+                "can_reach_solution": false
+            },
+            "S45_3": {
+                "can_reach_solution": false
+            },
+            "S45_4": {
+                "can_reach_solution": false
+            },
+            "S45_5": {
+                "can_reach_solution": false
+            },
+            "S45_6": {
+                "can_reach_solution": false
+            },
+            "S45_7": {
+                "can_reach_solution": false
+            },
+            "S45_8": {
+                "can_reach_solution": false
+            },
+            "S45_9": {
+                "can_reach_solution": false
+            },
+            "S45_10": {
+                "can_reach_solution": false
+            },
+            "S45_11": {
+                "can_reach_solution": false
+            },
+            "S45_12": {
+                "can_reach_solution": false
+            },
+            "S45_13": {
+                "can_reach_solution": false
+            },
+            "S45_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H46": {
+        "super_nodes": {
+            "S46_0": {
+                "can_reach_solution": false
+            },
+            "S46_1": {
+                "can_reach_solution": false
+            },
+            "S46_2": {
+                "can_reach_solution": false
+            },
+            "S46_3": {
+                "can_reach_solution": false
+            },
+            "S46_4": {
+                "can_reach_solution": false
+            },
+            "S46_5": {
+                "can_reach_solution": false
+            },
+            "S46_6": {
+                "can_reach_solution": false
+            },
+            "S46_7": {
+                "can_reach_solution": false
+            },
+            "S46_8": {
+                "can_reach_solution": false
+            },
+            "S46_9": {
+                "can_reach_solution": false
+            },
+            "S46_10": {
+                "can_reach_solution": false
+            },
+            "S46_11": {
+                "can_reach_solution": false
+            },
+            "S46_12": {
+                "can_reach_solution": false
+            },
+            "S46_13": {
+                "can_reach_solution": false
+            },
+            "S46_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H47": {
+        "super_nodes": {
+            "S47_0": {
+                "can_reach_solution": false
+            },
+            "S47_1": {
+                "can_reach_solution": false
+            },
+            "S47_2": {
+                "can_reach_solution": false
+            },
+            "S47_3": {
+                "can_reach_solution": false
+            },
+            "S47_4": {
+                "can_reach_solution": false
+            },
+            "S47_5": {
+                "can_reach_solution": false
+            },
+            "S47_6": {
+                "can_reach_solution": false
+            },
+            "S47_7": {
+                "can_reach_solution": false
+            },
+            "S47_8": {
+                "can_reach_solution": false
+            },
+            "S47_9": {
+                "can_reach_solution": false
+            },
+            "S47_10": {
+                "can_reach_solution": false
+            },
+            "S47_11": {
+                "can_reach_solution": false
+            },
+            "S47_12": {
+                "can_reach_solution": false
+            },
+            "S47_13": {
+                "can_reach_solution": false
+            },
+            "S47_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H48": {
+        "super_nodes": {
+            "S48_0": {
+                "can_reach_solution": false
+            },
+            "S48_1": {
+                "can_reach_solution": false
+            },
+            "S48_2": {
+                "can_reach_solution": false
+            },
+            "S48_3": {
+                "can_reach_solution": false
+            },
+            "S48_4": {
+                "can_reach_solution": false
+            },
+            "S48_5": {
+                "can_reach_solution": false
+            },
+            "S48_6": {
+                "can_reach_solution": false
+            },
+            "S48_7": {
+                "can_reach_solution": false
+            },
+            "S48_8": {
+                "can_reach_solution": false
+            },
+            "S48_9": {
+                "can_reach_solution": false
+            },
+            "S48_10": {
+                "can_reach_solution": false
+            },
+            "S48_11": {
+                "can_reach_solution": false
+            },
+            "S48_12": {
+                "can_reach_solution": false
+            },
+            "S48_13": {
+                "can_reach_solution": false
+            },
+            "S48_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H49": {
+        "super_nodes": {
+            "S49_0": {
+                "can_reach_solution": false
+            },
+            "S49_1": {
+                "can_reach_solution": false
+            },
+            "S49_2": {
+                "can_reach_solution": false
+            },
+            "S49_3": {
+                "can_reach_solution": false
+            },
+            "S49_4": {
+                "can_reach_solution": false
+            },
+            "S49_5": {
+                "can_reach_solution": false
+            },
+            "S49_6": {
+                "can_reach_solution": false
+            },
+            "S49_7": {
+                "can_reach_solution": false
+            },
+            "S49_8": {
+                "can_reach_solution": false
+            },
+            "S49_9": {
+                "can_reach_solution": false
+            },
+            "S49_10": {
+                "can_reach_solution": false
+            },
+            "S49_11": {
+                "can_reach_solution": false
+            },
+            "S49_12": {
+                "can_reach_solution": false
+            },
+            "S49_13": {
+                "can_reach_solution": false
+            },
+            "S49_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H50": {
+        "super_nodes": {
+            "S50_0": {
+                "can_reach_solution": false
+            },
+            "S50_1": {
+                "can_reach_solution": false
+            },
+            "S50_2": {
+                "can_reach_solution": false
+            },
+            "S50_3": {
+                "can_reach_solution": false
+            },
+            "S50_4": {
+                "can_reach_solution": false
+            },
+            "S50_5": {
+                "can_reach_solution": false
+            },
+            "S50_6": {
+                "can_reach_solution": false
+            },
+            "S50_7": {
+                "can_reach_solution": false
+            },
+            "S50_8": {
+                "can_reach_solution": false
+            },
+            "S50_9": {
+                "can_reach_solution": false
+            },
+            "S50_10": {
+                "can_reach_solution": false
+            },
+            "S50_11": {
+                "can_reach_solution": false
+            },
+            "S50_12": {
+                "can_reach_solution": false
+            },
+            "S50_13": {
+                "can_reach_solution": false
+            },
+            "S50_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H51": {
+        "super_nodes": {
+            "S51_0": {
+                "can_reach_solution": false
+            },
+            "S51_1": {
+                "can_reach_solution": false
+            },
+            "S51_2": {
+                "can_reach_solution": false
+            },
+            "S51_3": {
+                "can_reach_solution": false
+            },
+            "S51_4": {
+                "can_reach_solution": false
+            },
+            "S51_5": {
+                "can_reach_solution": false
+            },
+            "S51_6": {
+                "can_reach_solution": false
+            },
+            "S51_7": {
+                "can_reach_solution": false
+            },
+            "S51_8": {
+                "can_reach_solution": false
+            },
+            "S51_9": {
+                "can_reach_solution": false
+            },
+            "S51_10": {
+                "can_reach_solution": false
+            },
+            "S51_11": {
+                "can_reach_solution": false
+            },
+            "S51_12": {
+                "can_reach_solution": false
+            },
+            "S51_13": {
+                "can_reach_solution": false
+            },
+            "S51_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H52": {
+        "super_nodes": {
+            "S52_0": {
+                "can_reach_solution": false
+            },
+            "S52_1": {
+                "can_reach_solution": false
+            },
+            "S52_2": {
+                "can_reach_solution": false
+            },
+            "S52_3": {
+                "can_reach_solution": false
+            },
+            "S52_4": {
+                "can_reach_solution": false
+            },
+            "S52_5": {
+                "can_reach_solution": false
+            },
+            "S52_6": {
+                "can_reach_solution": false
+            },
+            "S52_7": {
+                "can_reach_solution": false
+            },
+            "S52_8": {
+                "can_reach_solution": false
+            },
+            "S52_9": {
+                "can_reach_solution": false
+            },
+            "S52_10": {
+                "can_reach_solution": false
+            },
+            "S52_11": {
+                "can_reach_solution": false
+            },
+            "S52_12": {
+                "can_reach_solution": false
+            },
+            "S52_13": {
+                "can_reach_solution": false
+            },
+            "S52_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H53": {
+        "super_nodes": {
+            "S53_0": {
+                "can_reach_solution": false
+            },
+            "S53_1": {
+                "can_reach_solution": false
+            },
+            "S53_2": {
+                "can_reach_solution": false
+            },
+            "S53_3": {
+                "can_reach_solution": false
+            },
+            "S53_4": {
+                "can_reach_solution": false
+            },
+            "S53_5": {
+                "can_reach_solution": false
+            },
+            "S53_6": {
+                "can_reach_solution": false
+            },
+            "S53_7": {
+                "can_reach_solution": false
+            },
+            "S53_8": {
+                "can_reach_solution": false
+            },
+            "S53_9": {
+                "can_reach_solution": false
+            },
+            "S53_10": {
+                "can_reach_solution": false
+            },
+            "S53_11": {
+                "can_reach_solution": false
+            },
+            "S53_12": {
+                "can_reach_solution": false
+            },
+            "S53_13": {
+                "can_reach_solution": false
+            },
+            "S53_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H54": {
+        "super_nodes": {
+            "S54_0": {
+                "can_reach_solution": false
+            },
+            "S54_1": {
+                "can_reach_solution": false
+            },
+            "S54_2": {
+                "can_reach_solution": false
+            },
+            "S54_3": {
+                "can_reach_solution": false
+            },
+            "S54_4": {
+                "can_reach_solution": false
+            },
+            "S54_5": {
+                "can_reach_solution": false
+            },
+            "S54_6": {
+                "can_reach_solution": false
+            },
+            "S54_7": {
+                "can_reach_solution": false
+            },
+            "S54_8": {
+                "can_reach_solution": false
+            },
+            "S54_9": {
+                "can_reach_solution": false
+            },
+            "S54_10": {
+                "can_reach_solution": false
+            },
+            "S54_11": {
+                "can_reach_solution": false
+            },
+            "S54_12": {
+                "can_reach_solution": false
+            },
+            "S54_13": {
+                "can_reach_solution": false
+            },
+            "S54_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H55": {
+        "super_nodes": {
+            "S55_0": {
+                "can_reach_solution": false
+            },
+            "S55_1": {
+                "can_reach_solution": false
+            },
+            "S55_2": {
+                "can_reach_solution": false
+            },
+            "S55_3": {
+                "can_reach_solution": false
+            },
+            "S55_4": {
+                "can_reach_solution": false
+            },
+            "S55_5": {
+                "can_reach_solution": false
+            },
+            "S55_6": {
+                "can_reach_solution": false
+            },
+            "S55_7": {
+                "can_reach_solution": false
+            },
+            "S55_8": {
+                "can_reach_solution": false
+            },
+            "S55_9": {
+                "can_reach_solution": false
+            },
+            "S55_10": {
+                "can_reach_solution": false
+            },
+            "S55_11": {
+                "can_reach_solution": false
+            },
+            "S55_12": {
+                "can_reach_solution": false
+            },
+            "S55_13": {
+                "can_reach_solution": false
+            },
+            "S55_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H56": {
+        "super_nodes": {
+            "S56_0": {
+                "can_reach_solution": false
+            },
+            "S56_1": {
+                "can_reach_solution": false
+            },
+            "S56_2": {
+                "can_reach_solution": false
+            },
+            "S56_3": {
+                "can_reach_solution": false
+            },
+            "S56_4": {
+                "can_reach_solution": false
+            },
+            "S56_5": {
+                "can_reach_solution": false
+            },
+            "S56_6": {
+                "can_reach_solution": false
+            },
+            "S56_7": {
+                "can_reach_solution": false
+            },
+            "S56_8": {
+                "can_reach_solution": false
+            },
+            "S56_9": {
+                "can_reach_solution": false
+            },
+            "S56_10": {
+                "can_reach_solution": false
+            },
+            "S56_11": {
+                "can_reach_solution": false
+            },
+            "S56_12": {
+                "can_reach_solution": false
+            },
+            "S56_13": {
+                "can_reach_solution": false
+            },
+            "S56_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H57": {
+        "super_nodes": {
+            "S57_0": {
+                "can_reach_solution": false
+            },
+            "S57_1": {
+                "can_reach_solution": false
+            },
+            "S57_2": {
+                "can_reach_solution": false
+            },
+            "S57_3": {
+                "can_reach_solution": false
+            },
+            "S57_4": {
+                "can_reach_solution": false
+            },
+            "S57_5": {
+                "can_reach_solution": false
+            },
+            "S57_6": {
+                "can_reach_solution": false
+            },
+            "S57_7": {
+                "can_reach_solution": false
+            },
+            "S57_8": {
+                "can_reach_solution": false
+            },
+            "S57_9": {
+                "can_reach_solution": false
+            },
+            "S57_10": {
+                "can_reach_solution": false
+            },
+            "S57_11": {
+                "can_reach_solution": false
+            },
+            "S57_12": {
+                "can_reach_solution": false
+            },
+            "S57_13": {
+                "can_reach_solution": false
+            },
+            "S57_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H58": {
+        "super_nodes": {
+            "S58_0": {
+                "can_reach_solution": false
+            },
+            "S58_1": {
+                "can_reach_solution": false
+            },
+            "S58_2": {
+                "can_reach_solution": false
+            },
+            "S58_3": {
+                "can_reach_solution": false
+            },
+            "S58_4": {
+                "can_reach_solution": false
+            },
+            "S58_5": {
+                "can_reach_solution": false
+            },
+            "S58_6": {
+                "can_reach_solution": false
+            },
+            "S58_7": {
+                "can_reach_solution": false
+            },
+            "S58_8": {
+                "can_reach_solution": false
+            },
+            "S58_9": {
+                "can_reach_solution": false
+            },
+            "S58_10": {
+                "can_reach_solution": false
+            },
+            "S58_11": {
+                "can_reach_solution": false
+            },
+            "S58_12": {
+                "can_reach_solution": false
+            },
+            "S58_13": {
+                "can_reach_solution": false
+            },
+            "S58_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H59": {
+        "super_nodes": {
+            "S59_0": {
+                "can_reach_solution": false
+            },
+            "S59_1": {
+                "can_reach_solution": false
+            },
+            "S59_2": {
+                "can_reach_solution": false
+            },
+            "S59_3": {
+                "can_reach_solution": false
+            },
+            "S59_4": {
+                "can_reach_solution": false
+            },
+            "S59_5": {
+                "can_reach_solution": false
+            },
+            "S59_6": {
+                "can_reach_solution": false
+            },
+            "S59_7": {
+                "can_reach_solution": false
+            },
+            "S59_8": {
+                "can_reach_solution": false
+            },
+            "S59_9": {
+                "can_reach_solution": false
+            },
+            "S59_10": {
+                "can_reach_solution": false
+            },
+            "S59_11": {
+                "can_reach_solution": false
+            },
+            "S59_12": {
+                "can_reach_solution": false
+            },
+            "S59_13": {
+                "can_reach_solution": false
+            },
+            "S59_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H60": {
+        "super_nodes": {
+            "S60_0": {
+                "can_reach_solution": false
+            },
+            "S60_1": {
+                "can_reach_solution": false
+            },
+            "S60_2": {
+                "can_reach_solution": false
+            },
+            "S60_3": {
+                "can_reach_solution": false
+            },
+            "S60_4": {
+                "can_reach_solution": false
+            },
+            "S60_5": {
+                "can_reach_solution": false
+            },
+            "S60_6": {
+                "can_reach_solution": false
+            },
+            "S60_7": {
+                "can_reach_solution": false
+            },
+            "S60_8": {
+                "can_reach_solution": false
+            },
+            "S60_9": {
+                "can_reach_solution": false
+            },
+            "S60_10": {
+                "can_reach_solution": false
+            },
+            "S60_11": {
+                "can_reach_solution": false
+            },
+            "S60_12": {
+                "can_reach_solution": false
+            },
+            "S60_13": {
+                "can_reach_solution": false
+            },
+            "S60_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H61": {
+        "super_nodes": {
+            "S61_0": {
+                "can_reach_solution": false
+            },
+            "S61_1": {
+                "can_reach_solution": false
+            },
+            "S61_2": {
+                "can_reach_solution": false
+            },
+            "S61_3": {
+                "can_reach_solution": false
+            },
+            "S61_4": {
+                "can_reach_solution": false
+            },
+            "S61_5": {
+                "can_reach_solution": false
+            },
+            "S61_6": {
+                "can_reach_solution": false
+            },
+            "S61_7": {
+                "can_reach_solution": false
+            },
+            "S61_8": {
+                "can_reach_solution": false
+            },
+            "S61_9": {
+                "can_reach_solution": false
+            },
+            "S61_10": {
+                "can_reach_solution": false
+            },
+            "S61_11": {
+                "can_reach_solution": false
+            },
+            "S61_12": {
+                "can_reach_solution": false
+            },
+            "S61_13": {
+                "can_reach_solution": false
+            },
+            "S61_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H62": {
+        "super_nodes": {
+            "S62_0": {
+                "can_reach_solution": false
+            },
+            "S62_1": {
+                "can_reach_solution": false
+            },
+            "S62_2": {
+                "can_reach_solution": false
+            },
+            "S62_3": {
+                "can_reach_solution": false
+            },
+            "S62_4": {
+                "can_reach_solution": false
+            },
+            "S62_5": {
+                "can_reach_solution": false
+            },
+            "S62_6": {
+                "can_reach_solution": false
+            },
+            "S62_7": {
+                "can_reach_solution": false
+            },
+            "S62_8": {
+                "can_reach_solution": false
+            },
+            "S62_9": {
+                "can_reach_solution": false
+            },
+            "S62_10": {
+                "can_reach_solution": false
+            },
+            "S62_11": {
+                "can_reach_solution": false
+            },
+            "S62_12": {
+                "can_reach_solution": false
+            },
+            "S62_13": {
+                "can_reach_solution": false
+            },
+            "S62_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H63": {
+        "super_nodes": {
+            "S63_0": {
+                "can_reach_solution": false
+            },
+            "S63_1": {
+                "can_reach_solution": false
+            },
+            "S63_2": {
+                "can_reach_solution": false
+            },
+            "S63_3": {
+                "can_reach_solution": false
+            },
+            "S63_4": {
+                "can_reach_solution": false
+            },
+            "S63_5": {
+                "can_reach_solution": false
+            },
+            "S63_6": {
+                "can_reach_solution": false
+            },
+            "S63_7": {
+                "can_reach_solution": false
+            },
+            "S63_8": {
+                "can_reach_solution": false
+            },
+            "S63_9": {
+                "can_reach_solution": false
+            },
+            "S63_10": {
+                "can_reach_solution": false
+            },
+            "S63_11": {
+                "can_reach_solution": false
+            },
+            "S63_12": {
+                "can_reach_solution": false
+            },
+            "S63_13": {
+                "can_reach_solution": false
+            },
+            "S63_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H64": {
+        "super_nodes": {
+            "S64_0": {
+                "can_reach_solution": false
+            },
+            "S64_1": {
+                "can_reach_solution": false
+            },
+            "S64_2": {
+                "can_reach_solution": false
+            },
+            "S64_3": {
+                "can_reach_solution": false
+            },
+            "S64_4": {
+                "can_reach_solution": false
+            },
+            "S64_5": {
+                "can_reach_solution": false
+            },
+            "S64_6": {
+                "can_reach_solution": false
+            },
+            "S64_7": {
+                "can_reach_solution": false
+            },
+            "S64_8": {
+                "can_reach_solution": false
+            },
+            "S64_9": {
+                "can_reach_solution": false
+            },
+            "S64_10": {
+                "can_reach_solution": false
+            },
+            "S64_11": {
+                "can_reach_solution": false
+            },
+            "S64_12": {
+                "can_reach_solution": false
+            },
+            "S64_13": {
+                "can_reach_solution": false
+            },
+            "S64_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H65": {
+        "super_nodes": {
+            "S65_0": {
+                "can_reach_solution": false
+            },
+            "S65_1": {
+                "can_reach_solution": false
+            },
+            "S65_2": {
+                "can_reach_solution": false
+            },
+            "S65_3": {
+                "can_reach_solution": false
+            },
+            "S65_4": {
+                "can_reach_solution": false
+            },
+            "S65_5": {
+                "can_reach_solution": false
+            },
+            "S65_6": {
+                "can_reach_solution": false
+            },
+            "S65_7": {
+                "can_reach_solution": false
+            },
+            "S65_8": {
+                "can_reach_solution": false
+            },
+            "S65_9": {
+                "can_reach_solution": false
+            },
+            "S65_10": {
+                "can_reach_solution": false
+            },
+            "S65_11": {
+                "can_reach_solution": false
+            },
+            "S65_12": {
+                "can_reach_solution": false
+            },
+            "S65_13": {
+                "can_reach_solution": false
+            },
+            "S65_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H66": {
+        "super_nodes": {
+            "S66_0": {
+                "can_reach_solution": false
+            },
+            "S66_1": {
+                "can_reach_solution": false
+            },
+            "S66_2": {
+                "can_reach_solution": false
+            },
+            "S66_3": {
+                "can_reach_solution": false
+            },
+            "S66_4": {
+                "can_reach_solution": false
+            },
+            "S66_5": {
+                "can_reach_solution": false
+            },
+            "S66_6": {
+                "can_reach_solution": false
+            },
+            "S66_7": {
+                "can_reach_solution": false
+            },
+            "S66_8": {
+                "can_reach_solution": false
+            },
+            "S66_9": {
+                "can_reach_solution": false
+            },
+            "S66_10": {
+                "can_reach_solution": false
+            },
+            "S66_11": {
+                "can_reach_solution": false
+            },
+            "S66_12": {
+                "can_reach_solution": false
+            },
+            "S66_13": {
+                "can_reach_solution": false
+            },
+            "S66_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H67": {
+        "super_nodes": {
+            "S67_0": {
+                "can_reach_solution": false
+            },
+            "S67_1": {
+                "can_reach_solution": false
+            },
+            "S67_2": {
+                "can_reach_solution": false
+            },
+            "S67_3": {
+                "can_reach_solution": false
+            },
+            "S67_4": {
+                "can_reach_solution": false
+            },
+            "S67_5": {
+                "can_reach_solution": false
+            },
+            "S67_6": {
+                "can_reach_solution": false
+            },
+            "S67_7": {
+                "can_reach_solution": false
+            },
+            "S67_8": {
+                "can_reach_solution": false
+            },
+            "S67_9": {
+                "can_reach_solution": false
+            },
+            "S67_10": {
+                "can_reach_solution": false
+            },
+            "S67_11": {
+                "can_reach_solution": false
+            },
+            "S67_12": {
+                "can_reach_solution": false
+            },
+            "S67_13": {
+                "can_reach_solution": false
+            },
+            "S67_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H68": {
+        "super_nodes": {
+            "S68_0": {
+                "can_reach_solution": false
+            },
+            "S68_1": {
+                "can_reach_solution": false
+            },
+            "S68_2": {
+                "can_reach_solution": false
+            },
+            "S68_3": {
+                "can_reach_solution": false
+            },
+            "S68_4": {
+                "can_reach_solution": false
+            },
+            "S68_5": {
+                "can_reach_solution": false
+            },
+            "S68_6": {
+                "can_reach_solution": false
+            },
+            "S68_7": {
+                "can_reach_solution": false
+            },
+            "S68_8": {
+                "can_reach_solution": false
+            },
+            "S68_9": {
+                "can_reach_solution": false
+            },
+            "S68_10": {
+                "can_reach_solution": false
+            },
+            "S68_11": {
+                "can_reach_solution": false
+            },
+            "S68_12": {
+                "can_reach_solution": false
+            },
+            "S68_13": {
+                "can_reach_solution": false
+            },
+            "S68_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H69": {
+        "super_nodes": {
+            "S69_0": {
+                "can_reach_solution": false
+            },
+            "S69_1": {
+                "can_reach_solution": false
+            },
+            "S69_2": {
+                "can_reach_solution": false
+            },
+            "S69_3": {
+                "can_reach_solution": false
+            },
+            "S69_4": {
+                "can_reach_solution": false
+            },
+            "S69_5": {
+                "can_reach_solution": false
+            },
+            "S69_6": {
+                "can_reach_solution": false
+            },
+            "S69_7": {
+                "can_reach_solution": false
+            },
+            "S69_8": {
+                "can_reach_solution": false
+            },
+            "S69_9": {
+                "can_reach_solution": false
+            },
+            "S69_10": {
+                "can_reach_solution": false
+            },
+            "S69_11": {
+                "can_reach_solution": false
+            },
+            "S69_12": {
+                "can_reach_solution": false
+            },
+            "S69_13": {
+                "can_reach_solution": false
+            },
+            "S69_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H70": {
+        "super_nodes": {
+            "S70_0": {
+                "can_reach_solution": false
+            },
+            "S70_1": {
+                "can_reach_solution": false
+            },
+            "S70_2": {
+                "can_reach_solution": false
+            },
+            "S70_3": {
+                "can_reach_solution": false
+            },
+            "S70_4": {
+                "can_reach_solution": false
+            },
+            "S70_5": {
+                "can_reach_solution": false
+            },
+            "S70_6": {
+                "can_reach_solution": false
+            },
+            "S70_7": {
+                "can_reach_solution": false
+            },
+            "S70_8": {
+                "can_reach_solution": false
+            },
+            "S70_9": {
+                "can_reach_solution": false
+            },
+            "S70_10": {
+                "can_reach_solution": false
+            },
+            "S70_11": {
+                "can_reach_solution": false
+            },
+            "S70_12": {
+                "can_reach_solution": false
+            },
+            "S70_13": {
+                "can_reach_solution": false
+            },
+            "S70_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H71": {
+        "super_nodes": {
+            "S71_0": {
+                "can_reach_solution": false
+            },
+            "S71_1": {
+                "can_reach_solution": false
+            },
+            "S71_2": {
+                "can_reach_solution": false
+            },
+            "S71_3": {
+                "can_reach_solution": false
+            },
+            "S71_4": {
+                "can_reach_solution": false
+            },
+            "S71_5": {
+                "can_reach_solution": false
+            },
+            "S71_6": {
+                "can_reach_solution": false
+            },
+            "S71_7": {
+                "can_reach_solution": false
+            },
+            "S71_8": {
+                "can_reach_solution": false
+            },
+            "S71_9": {
+                "can_reach_solution": false
+            },
+            "S71_10": {
+                "can_reach_solution": false
+            },
+            "S71_11": {
+                "can_reach_solution": false
+            },
+            "S71_12": {
+                "can_reach_solution": false
+            },
+            "S71_13": {
+                "can_reach_solution": false
+            },
+            "S71_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H72": {
+        "super_nodes": {
+            "S72_0": {
+                "can_reach_solution": false
+            },
+            "S72_1": {
+                "can_reach_solution": false
+            },
+            "S72_2": {
+                "can_reach_solution": false
+            },
+            "S72_3": {
+                "can_reach_solution": false
+            },
+            "S72_4": {
+                "can_reach_solution": false
+            },
+            "S72_5": {
+                "can_reach_solution": false
+            },
+            "S72_6": {
+                "can_reach_solution": false
+            },
+            "S72_7": {
+                "can_reach_solution": false
+            },
+            "S72_8": {
+                "can_reach_solution": false
+            },
+            "S72_9": {
+                "can_reach_solution": false
+            },
+            "S72_10": {
+                "can_reach_solution": false
+            },
+            "S72_11": {
+                "can_reach_solution": false
+            },
+            "S72_12": {
+                "can_reach_solution": false
+            },
+            "S72_13": {
+                "can_reach_solution": false
+            },
+            "S72_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H73": {
+        "super_nodes": {
+            "S73_0": {
+                "can_reach_solution": false
+            },
+            "S73_1": {
+                "can_reach_solution": false
+            },
+            "S73_2": {
+                "can_reach_solution": false
+            },
+            "S73_3": {
+                "can_reach_solution": false
+            },
+            "S73_4": {
+                "can_reach_solution": false
+            },
+            "S73_5": {
+                "can_reach_solution": false
+            },
+            "S73_6": {
+                "can_reach_solution": false
+            },
+            "S73_7": {
+                "can_reach_solution": false
+            },
+            "S73_8": {
+                "can_reach_solution": false
+            },
+            "S73_9": {
+                "can_reach_solution": false
+            },
+            "S73_10": {
+                "can_reach_solution": false
+            },
+            "S73_11": {
+                "can_reach_solution": false
+            },
+            "S73_12": {
+                "can_reach_solution": false
+            },
+            "S73_13": {
+                "can_reach_solution": false
+            },
+            "S73_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H74": {
+        "super_nodes": {
+            "S74_0": {
+                "can_reach_solution": false
+            },
+            "S74_1": {
+                "can_reach_solution": false
+            },
+            "S74_2": {
+                "can_reach_solution": false
+            },
+            "S74_3": {
+                "can_reach_solution": false
+            },
+            "S74_4": {
+                "can_reach_solution": false
+            },
+            "S74_5": {
+                "can_reach_solution": false
+            },
+            "S74_6": {
+                "can_reach_solution": false
+            },
+            "S74_7": {
+                "can_reach_solution": false
+            },
+            "S74_8": {
+                "can_reach_solution": false
+            },
+            "S74_9": {
+                "can_reach_solution": false
+            },
+            "S74_10": {
+                "can_reach_solution": false
+            },
+            "S74_11": {
+                "can_reach_solution": false
+            },
+            "S74_12": {
+                "can_reach_solution": false
+            },
+            "S74_13": {
+                "can_reach_solution": false
+            },
+            "S74_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H75": {
+        "super_nodes": {
+            "S75_0": {
+                "can_reach_solution": false
+            },
+            "S75_1": {
+                "can_reach_solution": false
+            },
+            "S75_2": {
+                "can_reach_solution": false
+            },
+            "S75_3": {
+                "can_reach_solution": false
+            },
+            "S75_4": {
+                "can_reach_solution": false
+            },
+            "S75_5": {
+                "can_reach_solution": false
+            },
+            "S75_6": {
+                "can_reach_solution": false
+            },
+            "S75_7": {
+                "can_reach_solution": false
+            },
+            "S75_8": {
+                "can_reach_solution": false
+            },
+            "S75_9": {
+                "can_reach_solution": false
+            },
+            "S75_10": {
+                "can_reach_solution": false
+            },
+            "S75_11": {
+                "can_reach_solution": false
+            },
+            "S75_12": {
+                "can_reach_solution": false
+            },
+            "S75_13": {
+                "can_reach_solution": false
+            },
+            "S75_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H76": {
+        "super_nodes": {
+            "S76_0": {
+                "can_reach_solution": false
+            },
+            "S76_1": {
+                "can_reach_solution": false
+            },
+            "S76_2": {
+                "can_reach_solution": false
+            },
+            "S76_3": {
+                "can_reach_solution": false
+            },
+            "S76_4": {
+                "can_reach_solution": false
+            },
+            "S76_5": {
+                "can_reach_solution": false
+            },
+            "S76_6": {
+                "can_reach_solution": false
+            },
+            "S76_7": {
+                "can_reach_solution": false
+            },
+            "S76_8": {
+                "can_reach_solution": false
+            },
+            "S76_9": {
+                "can_reach_solution": false
+            },
+            "S76_10": {
+                "can_reach_solution": false
+            },
+            "S76_11": {
+                "can_reach_solution": false
+            },
+            "S76_12": {
+                "can_reach_solution": false
+            },
+            "S76_13": {
+                "can_reach_solution": false
+            },
+            "S76_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H77": {
+        "super_nodes": {
+            "S77_0": {
+                "can_reach_solution": false
+            },
+            "S77_1": {
+                "can_reach_solution": false
+            },
+            "S77_2": {
+                "can_reach_solution": false
+            },
+            "S77_3": {
+                "can_reach_solution": false
+            },
+            "S77_4": {
+                "can_reach_solution": false
+            },
+            "S77_5": {
+                "can_reach_solution": false
+            },
+            "S77_6": {
+                "can_reach_solution": false
+            },
+            "S77_7": {
+                "can_reach_solution": false
+            },
+            "S77_8": {
+                "can_reach_solution": false
+            },
+            "S77_9": {
+                "can_reach_solution": false
+            },
+            "S77_10": {
+                "can_reach_solution": false
+            },
+            "S77_11": {
+                "can_reach_solution": false
+            },
+            "S77_12": {
+                "can_reach_solution": false
+            },
+            "S77_13": {
+                "can_reach_solution": false
+            },
+            "S77_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H78": {
+        "super_nodes": {
+            "S78_0": {
+                "can_reach_solution": false
+            },
+            "S78_1": {
+                "can_reach_solution": false
+            },
+            "S78_2": {
+                "can_reach_solution": false
+            },
+            "S78_3": {
+                "can_reach_solution": false
+            },
+            "S78_4": {
+                "can_reach_solution": false
+            },
+            "S78_5": {
+                "can_reach_solution": false
+            },
+            "S78_6": {
+                "can_reach_solution": false
+            },
+            "S78_7": {
+                "can_reach_solution": false
+            },
+            "S78_8": {
+                "can_reach_solution": false
+            },
+            "S78_9": {
+                "can_reach_solution": false
+            },
+            "S78_10": {
+                "can_reach_solution": false
+            },
+            "S78_11": {
+                "can_reach_solution": false
+            },
+            "S78_12": {
+                "can_reach_solution": false
+            },
+            "S78_13": {
+                "can_reach_solution": false
+            },
+            "S78_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H79": {
+        "super_nodes": {
+            "S79_0": {
+                "can_reach_solution": false
+            },
+            "S79_1": {
+                "can_reach_solution": false
+            },
+            "S79_2": {
+                "can_reach_solution": false
+            },
+            "S79_3": {
+                "can_reach_solution": false
+            },
+            "S79_4": {
+                "can_reach_solution": false
+            },
+            "S79_5": {
+                "can_reach_solution": false
+            },
+            "S79_6": {
+                "can_reach_solution": false
+            },
+            "S79_7": {
+                "can_reach_solution": false
+            },
+            "S79_8": {
+                "can_reach_solution": false
+            },
+            "S79_9": {
+                "can_reach_solution": false
+            },
+            "S79_10": {
+                "can_reach_solution": false
+            },
+            "S79_11": {
+                "can_reach_solution": false
+            },
+            "S79_12": {
+                "can_reach_solution": false
+            },
+            "S79_13": {
+                "can_reach_solution": false
+            },
+            "S79_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H80": {
+        "super_nodes": {
+            "S80_0": {
+                "can_reach_solution": false
+            },
+            "S80_1": {
+                "can_reach_solution": false
+            },
+            "S80_2": {
+                "can_reach_solution": false
+            },
+            "S80_3": {
+                "can_reach_solution": false
+            },
+            "S80_4": {
+                "can_reach_solution": false
+            },
+            "S80_5": {
+                "can_reach_solution": false
+            },
+            "S80_6": {
+                "can_reach_solution": false
+            },
+            "S80_7": {
+                "can_reach_solution": false
+            },
+            "S80_8": {
+                "can_reach_solution": false
+            },
+            "S80_9": {
+                "can_reach_solution": false
+            },
+            "S80_10": {
+                "can_reach_solution": false
+            },
+            "S80_11": {
+                "can_reach_solution": false
+            },
+            "S80_12": {
+                "can_reach_solution": false
+            },
+            "S80_13": {
+                "can_reach_solution": false
+            },
+            "S80_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H81": {
+        "super_nodes": {
+            "S81_0": {
+                "can_reach_solution": false
+            },
+            "S81_1": {
+                "can_reach_solution": false
+            },
+            "S81_2": {
+                "can_reach_solution": false
+            },
+            "S81_3": {
+                "can_reach_solution": false
+            },
+            "S81_4": {
+                "can_reach_solution": false
+            },
+            "S81_5": {
+                "can_reach_solution": false
+            },
+            "S81_6": {
+                "can_reach_solution": false
+            },
+            "S81_7": {
+                "can_reach_solution": false
+            },
+            "S81_8": {
+                "can_reach_solution": false
+            },
+            "S81_9": {
+                "can_reach_solution": false
+            },
+            "S81_10": {
+                "can_reach_solution": false
+            },
+            "S81_11": {
+                "can_reach_solution": false
+            },
+            "S81_12": {
+                "can_reach_solution": false
+            },
+            "S81_13": {
+                "can_reach_solution": false
+            },
+            "S81_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H82": {
+        "super_nodes": {
+            "S82_0": {
+                "can_reach_solution": false
+            },
+            "S82_1": {
+                "can_reach_solution": false
+            },
+            "S82_2": {
+                "can_reach_solution": false
+            },
+            "S82_3": {
+                "can_reach_solution": false
+            },
+            "S82_4": {
+                "can_reach_solution": false
+            },
+            "S82_5": {
+                "can_reach_solution": false
+            },
+            "S82_6": {
+                "can_reach_solution": false
+            },
+            "S82_7": {
+                "can_reach_solution": false
+            },
+            "S82_8": {
+                "can_reach_solution": false
+            },
+            "S82_9": {
+                "can_reach_solution": false
+            },
+            "S82_10": {
+                "can_reach_solution": false
+            },
+            "S82_11": {
+                "can_reach_solution": false
+            },
+            "S82_12": {
+                "can_reach_solution": false
+            },
+            "S82_13": {
+                "can_reach_solution": false
+            },
+            "S82_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H83": {
+        "super_nodes": {
+            "S83_0": {
+                "can_reach_solution": false
+            },
+            "S83_1": {
+                "can_reach_solution": false
+            },
+            "S83_2": {
+                "can_reach_solution": false
+            },
+            "S83_3": {
+                "can_reach_solution": false
+            },
+            "S83_4": {
+                "can_reach_solution": false
+            },
+            "S83_5": {
+                "can_reach_solution": false
+            },
+            "S83_6": {
+                "can_reach_solution": false
+            },
+            "S83_7": {
+                "can_reach_solution": false
+            },
+            "S83_8": {
+                "can_reach_solution": false
+            },
+            "S83_9": {
+                "can_reach_solution": false
+            },
+            "S83_10": {
+                "can_reach_solution": false
+            },
+            "S83_11": {
+                "can_reach_solution": false
+            },
+            "S83_12": {
+                "can_reach_solution": false
+            },
+            "S83_13": {
+                "can_reach_solution": false
+            },
+            "S83_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H84": {
+        "super_nodes": {
+            "S84_0": {
+                "can_reach_solution": false
+            },
+            "S84_1": {
+                "can_reach_solution": false
+            },
+            "S84_2": {
+                "can_reach_solution": false
+            },
+            "S84_3": {
+                "can_reach_solution": false
+            },
+            "S84_4": {
+                "can_reach_solution": false
+            },
+            "S84_5": {
+                "can_reach_solution": false
+            },
+            "S84_6": {
+                "can_reach_solution": false
+            },
+            "S84_7": {
+                "can_reach_solution": false
+            },
+            "S84_8": {
+                "can_reach_solution": false
+            },
+            "S84_9": {
+                "can_reach_solution": false
+            },
+            "S84_10": {
+                "can_reach_solution": false
+            },
+            "S84_11": {
+                "can_reach_solution": false
+            },
+            "S84_12": {
+                "can_reach_solution": false
+            },
+            "S84_13": {
+                "can_reach_solution": false
+            },
+            "S84_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H85": {
+        "super_nodes": {
+            "S85_0": {
+                "can_reach_solution": false
+            },
+            "S85_1": {
+                "can_reach_solution": false
+            },
+            "S85_2": {
+                "can_reach_solution": false
+            },
+            "S85_3": {
+                "can_reach_solution": false
+            },
+            "S85_4": {
+                "can_reach_solution": false
+            },
+            "S85_5": {
+                "can_reach_solution": false
+            },
+            "S85_6": {
+                "can_reach_solution": false
+            },
+            "S85_7": {
+                "can_reach_solution": false
+            },
+            "S85_8": {
+                "can_reach_solution": false
+            },
+            "S85_9": {
+                "can_reach_solution": false
+            },
+            "S85_10": {
+                "can_reach_solution": false
+            },
+            "S85_11": {
+                "can_reach_solution": false
+            },
+            "S85_12": {
+                "can_reach_solution": false
+            },
+            "S85_13": {
+                "can_reach_solution": false
+            },
+            "S85_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H86": {
+        "super_nodes": {
+            "S86_0": {
+                "can_reach_solution": false
+            },
+            "S86_1": {
+                "can_reach_solution": false
+            },
+            "S86_2": {
+                "can_reach_solution": false
+            },
+            "S86_3": {
+                "can_reach_solution": false
+            },
+            "S86_4": {
+                "can_reach_solution": false
+            },
+            "S86_5": {
+                "can_reach_solution": false
+            },
+            "S86_6": {
+                "can_reach_solution": false
+            },
+            "S86_7": {
+                "can_reach_solution": false
+            },
+            "S86_8": {
+                "can_reach_solution": false
+            },
+            "S86_9": {
+                "can_reach_solution": false
+            },
+            "S86_10": {
+                "can_reach_solution": false
+            },
+            "S86_11": {
+                "can_reach_solution": false
+            },
+            "S86_12": {
+                "can_reach_solution": false
+            },
+            "S86_13": {
+                "can_reach_solution": false
+            },
+            "S86_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H87": {
+        "super_nodes": {
+            "S87_0": {
+                "can_reach_solution": false
+            },
+            "S87_1": {
+                "can_reach_solution": false
+            },
+            "S87_2": {
+                "can_reach_solution": false
+            },
+            "S87_3": {
+                "can_reach_solution": false
+            },
+            "S87_4": {
+                "can_reach_solution": false
+            },
+            "S87_5": {
+                "can_reach_solution": false
+            },
+            "S87_6": {
+                "can_reach_solution": false
+            },
+            "S87_7": {
+                "can_reach_solution": false
+            },
+            "S87_8": {
+                "can_reach_solution": false
+            },
+            "S87_9": {
+                "can_reach_solution": false
+            },
+            "S87_10": {
+                "can_reach_solution": false
+            },
+            "S87_11": {
+                "can_reach_solution": false
+            },
+            "S87_12": {
+                "can_reach_solution": false
+            },
+            "S87_13": {
+                "can_reach_solution": false
+            },
+            "S87_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H88": {
+        "super_nodes": {
+            "S88_0": {
+                "can_reach_solution": false
+            },
+            "S88_1": {
+                "can_reach_solution": false
+            },
+            "S88_2": {
+                "can_reach_solution": false
+            },
+            "S88_3": {
+                "can_reach_solution": false
+            },
+            "S88_4": {
+                "can_reach_solution": false
+            },
+            "S88_5": {
+                "can_reach_solution": false
+            },
+            "S88_6": {
+                "can_reach_solution": false
+            },
+            "S88_7": {
+                "can_reach_solution": false
+            },
+            "S88_8": {
+                "can_reach_solution": false
+            },
+            "S88_9": {
+                "can_reach_solution": false
+            },
+            "S88_10": {
+                "can_reach_solution": false
+            },
+            "S88_11": {
+                "can_reach_solution": false
+            },
+            "S88_12": {
+                "can_reach_solution": false
+            },
+            "S88_13": {
+                "can_reach_solution": false
+            },
+            "S88_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H89": {
+        "super_nodes": {
+            "S89_0": {
+                "can_reach_solution": false
+            },
+            "S89_1": {
+                "can_reach_solution": false
+            },
+            "S89_2": {
+                "can_reach_solution": false
+            },
+            "S89_3": {
+                "can_reach_solution": false
+            },
+            "S89_4": {
+                "can_reach_solution": false
+            },
+            "S89_5": {
+                "can_reach_solution": false
+            },
+            "S89_6": {
+                "can_reach_solution": false
+            },
+            "S89_7": {
+                "can_reach_solution": false
+            },
+            "S89_8": {
+                "can_reach_solution": false
+            },
+            "S89_9": {
+                "can_reach_solution": false
+            },
+            "S89_10": {
+                "can_reach_solution": false
+            },
+            "S89_11": {
+                "can_reach_solution": false
+            },
+            "S89_12": {
+                "can_reach_solution": false
+            },
+            "S89_13": {
+                "can_reach_solution": false
+            },
+            "S89_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H90": {
+        "super_nodes": {
+            "S90_0": {
+                "can_reach_solution": false
+            },
+            "S90_1": {
+                "can_reach_solution": false
+            },
+            "S90_2": {
+                "can_reach_solution": false
+            },
+            "S90_3": {
+                "can_reach_solution": false
+            },
+            "S90_4": {
+                "can_reach_solution": false
+            },
+            "S90_5": {
+                "can_reach_solution": false
+            },
+            "S90_6": {
+                "can_reach_solution": false
+            },
+            "S90_7": {
+                "can_reach_solution": false
+            },
+            "S90_8": {
+                "can_reach_solution": false
+            },
+            "S90_9": {
+                "can_reach_solution": false
+            },
+            "S90_10": {
+                "can_reach_solution": false
+            },
+            "S90_11": {
+                "can_reach_solution": false
+            },
+            "S90_12": {
+                "can_reach_solution": false
+            },
+            "S90_13": {
+                "can_reach_solution": false
+            },
+            "S90_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H91": {
+        "super_nodes": {
+            "S91_0": {
+                "can_reach_solution": false
+            },
+            "S91_1": {
+                "can_reach_solution": false
+            },
+            "S91_2": {
+                "can_reach_solution": false
+            },
+            "S91_3": {
+                "can_reach_solution": false
+            },
+            "S91_4": {
+                "can_reach_solution": false
+            },
+            "S91_5": {
+                "can_reach_solution": false
+            },
+            "S91_6": {
+                "can_reach_solution": false
+            },
+            "S91_7": {
+                "can_reach_solution": false
+            },
+            "S91_8": {
+                "can_reach_solution": false
+            },
+            "S91_9": {
+                "can_reach_solution": false
+            },
+            "S91_10": {
+                "can_reach_solution": false
+            },
+            "S91_11": {
+                "can_reach_solution": false
+            },
+            "S91_12": {
+                "can_reach_solution": false
+            },
+            "S91_13": {
+                "can_reach_solution": false
+            },
+            "S91_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H92": {
+        "super_nodes": {
+            "S92_0": {
+                "can_reach_solution": false
+            },
+            "S92_1": {
+                "can_reach_solution": false
+            },
+            "S92_2": {
+                "can_reach_solution": false
+            },
+            "S92_3": {
+                "can_reach_solution": false
+            },
+            "S92_4": {
+                "can_reach_solution": false
+            },
+            "S92_5": {
+                "can_reach_solution": false
+            },
+            "S92_6": {
+                "can_reach_solution": false
+            },
+            "S92_7": {
+                "can_reach_solution": false
+            },
+            "S92_8": {
+                "can_reach_solution": false
+            },
+            "S92_9": {
+                "can_reach_solution": false
+            },
+            "S92_10": {
+                "can_reach_solution": false
+            },
+            "S92_11": {
+                "can_reach_solution": false
+            },
+            "S92_12": {
+                "can_reach_solution": false
+            },
+            "S92_13": {
+                "can_reach_solution": false
+            },
+            "S92_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H93": {
+        "super_nodes": {
+            "S93_0": {
+                "can_reach_solution": false
+            },
+            "S93_1": {
+                "can_reach_solution": false
+            },
+            "S93_2": {
+                "can_reach_solution": false
+            },
+            "S93_3": {
+                "can_reach_solution": false
+            },
+            "S93_4": {
+                "can_reach_solution": false
+            },
+            "S93_5": {
+                "can_reach_solution": false
+            },
+            "S93_6": {
+                "can_reach_solution": false
+            },
+            "S93_7": {
+                "can_reach_solution": false
+            },
+            "S93_8": {
+                "can_reach_solution": false
+            },
+            "S93_9": {
+                "can_reach_solution": false
+            },
+            "S93_10": {
+                "can_reach_solution": false
+            },
+            "S93_11": {
+                "can_reach_solution": false
+            },
+            "S93_12": {
+                "can_reach_solution": false
+            },
+            "S93_13": {
+                "can_reach_solution": false
+            },
+            "S93_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H94": {
+        "super_nodes": {
+            "S94_0": {
+                "can_reach_solution": false
+            },
+            "S94_1": {
+                "can_reach_solution": false
+            },
+            "S94_2": {
+                "can_reach_solution": false
+            },
+            "S94_3": {
+                "can_reach_solution": false
+            },
+            "S94_4": {
+                "can_reach_solution": false
+            },
+            "S94_5": {
+                "can_reach_solution": false
+            },
+            "S94_6": {
+                "can_reach_solution": false
+            },
+            "S94_7": {
+                "can_reach_solution": false
+            },
+            "S94_8": {
+                "can_reach_solution": false
+            },
+            "S94_9": {
+                "can_reach_solution": false
+            },
+            "S94_10": {
+                "can_reach_solution": false
+            },
+            "S94_11": {
+                "can_reach_solution": false
+            },
+            "S94_12": {
+                "can_reach_solution": false
+            },
+            "S94_13": {
+                "can_reach_solution": false
+            },
+            "S94_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H95": {
+        "super_nodes": {
+            "S95_0": {
+                "can_reach_solution": false
+            },
+            "S95_1": {
+                "can_reach_solution": false
+            },
+            "S95_2": {
+                "can_reach_solution": false
+            },
+            "S95_3": {
+                "can_reach_solution": false
+            },
+            "S95_4": {
+                "can_reach_solution": false
+            },
+            "S95_5": {
+                "can_reach_solution": false
+            },
+            "S95_6": {
+                "can_reach_solution": false
+            },
+            "S95_7": {
+                "can_reach_solution": false
+            },
+            "S95_8": {
+                "can_reach_solution": false
+            },
+            "S95_9": {
+                "can_reach_solution": false
+            },
+            "S95_10": {
+                "can_reach_solution": false
+            },
+            "S95_11": {
+                "can_reach_solution": false
+            },
+            "S95_12": {
+                "can_reach_solution": false
+            },
+            "S95_13": {
+                "can_reach_solution": false
+            },
+            "S95_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H96": {
+        "super_nodes": {
+            "S96_0": {
+                "can_reach_solution": false
+            },
+            "S96_1": {
+                "can_reach_solution": false
+            },
+            "S96_2": {
+                "can_reach_solution": false
+            },
+            "S96_3": {
+                "can_reach_solution": false
+            },
+            "S96_4": {
+                "can_reach_solution": false
+            },
+            "S96_5": {
+                "can_reach_solution": false
+            },
+            "S96_6": {
+                "can_reach_solution": false
+            },
+            "S96_7": {
+                "can_reach_solution": false
+            },
+            "S96_8": {
+                "can_reach_solution": false
+            },
+            "S96_9": {
+                "can_reach_solution": false
+            },
+            "S96_10": {
+                "can_reach_solution": false
+            },
+            "S96_11": {
+                "can_reach_solution": false
+            },
+            "S96_12": {
+                "can_reach_solution": false
+            },
+            "S96_13": {
+                "can_reach_solution": false
+            },
+            "S96_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H97": {
+        "super_nodes": {
+            "S97_0": {
+                "can_reach_solution": false
+            },
+            "S97_1": {
+                "can_reach_solution": false
+            },
+            "S97_2": {
+                "can_reach_solution": false
+            },
+            "S97_3": {
+                "can_reach_solution": false
+            },
+            "S97_4": {
+                "can_reach_solution": false
+            },
+            "S97_5": {
+                "can_reach_solution": false
+            },
+            "S97_6": {
+                "can_reach_solution": false
+            },
+            "S97_7": {
+                "can_reach_solution": false
+            },
+            "S97_8": {
+                "can_reach_solution": false
+            },
+            "S97_9": {
+                "can_reach_solution": false
+            },
+            "S97_10": {
+                "can_reach_solution": false
+            },
+            "S97_11": {
+                "can_reach_solution": false
+            },
+            "S97_12": {
+                "can_reach_solution": false
+            },
+            "S97_13": {
+                "can_reach_solution": false
+            },
+            "S97_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H98": {
+        "super_nodes": {
+            "S98_0": {
+                "can_reach_solution": false
+            },
+            "S98_1": {
+                "can_reach_solution": false
+            },
+            "S98_2": {
+                "can_reach_solution": false
+            },
+            "S98_3": {
+                "can_reach_solution": false
+            },
+            "S98_4": {
+                "can_reach_solution": false
+            },
+            "S98_5": {
+                "can_reach_solution": false
+            },
+            "S98_6": {
+                "can_reach_solution": false
+            },
+            "S98_7": {
+                "can_reach_solution": false
+            },
+            "S98_8": {
+                "can_reach_solution": false
+            },
+            "S98_9": {
+                "can_reach_solution": false
+            },
+            "S98_10": {
+                "can_reach_solution": false
+            },
+            "S98_11": {
+                "can_reach_solution": false
+            },
+            "S98_12": {
+                "can_reach_solution": false
+            },
+            "S98_13": {
+                "can_reach_solution": false
+            },
+            "S98_14": {
+                "can_reach_solution": false
+            }
+        }
+    },
+    "H99": {
+        "super_nodes": {
+            "S99_0": {
+                "can_reach_solution": false
+            },
+            "S99_1": {
+                "can_reach_solution": false
+            },
+            "S99_2": {
+                "can_reach_solution": false
+            },
+            "S99_3": {
+                "can_reach_solution": false
+            },
+            "S99_4": {
+                "can_reach_solution": false
+            },
+            "S99_5": {
+                "can_reach_solution": false
+            },
+            "S99_6": {
+                "can_reach_solution": false
+            },
+            "S99_7": {
+                "can_reach_solution": false
+            },
+            "S99_8": {
+                "can_reach_solution": false
+            },
+            "S99_9": {
+                "can_reach_solution": false
+            },
+            "S99_10": {
+                "can_reach_solution": false
+            },
+            "S99_11": {
+                "can_reach_solution": false
+            },
+            "S99_12": {
+                "can_reach_solution": false
+            },
+            "S99_13": {
+                "can_reach_solution": false
+            },
+            "S99_14": {
+                "can_reach_solution": false
+            }
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "rows": 5,
+    "cols": 6,
+    "pieces": [
+        {
+            "label": "a",
+            "piece_type": "2x2",
+            "row": 0,
+            "col": 4
+        },
+        {
+            "label": "b",
+            "piece_type": "1x1",
+            "row": 1,
+            "col": 1
+        },
+        {
+            "label": "c",
+            "piece_type": "1x1",
+            "row": 2,
+            "col": 3
+        },
+        {
+            "label": "d",
+            "piece_type": "1x1",
+            "row": 0,
+            "col": 0
+        },
+        {
+            "label": "e",
+            "piece_type": "1x1",
+            "row": 3,
+            "col": 0
+        },
+        {
+            "label": "f",
+            "piece_type": "1x1",
+            "row": 3,
+            "col": 2
+        },
+        {
+            "label": "g",
+            "piece_type": "1x1",
+            "row": 3,
+            "col": 4
+        },
+        {
+            "label": "k",
+            "piece_type": "1x1",
+            "row": 1,
+            "col": 2
+        },
+        {
+            "label": "l",
+            "piece_type": "1x1",
+            "row": 4,
+            "col": 3
+        },
+        {
+            "label": "m",
+            "piece_type": "1x1",
+            "row": 4,
+            "col": 0
+        },
+        {
+            "label": "n",
+            "piece_type": "1x1",
+            "row": 4,
+            "col": 1
+        },
+        {
+            "label": "o",
+            "piece_type": "1x1",
+            "row": 4,
+            "col": 5
+        },
+        {
+            "label": "p",
+            "piece_type": "1x1",
+            "row": 2,
+            "col": 4
+        },
+        {
+            "label": "q",
+            "piece_type": "1x1",
+            "row": 0,
+            "col": 1
+        },
+        {
+            "label": "r",
+            "piece_type": "1x1",
+            "row": 1,
+            "col": 0
+        },
+        {
+            "label": "s",
+            "piece_type": "1x1",
+            "row": 2,
+            "col": 2
+        },
+        {
+            "label": "t",
+            "piece_type": "1x1",
+            "row": 4,
+            "col": 2
+        },
+        {
+            "label": "u",
+            "piece_type": "1x1",
+            "row": 4,
+            "col": 4
+        },
+        {
+            "label": "v",
+            "piece_type": "1x1",
+            "row": 1,
+            "col": 3
+        },
+        {
+            "label": "w",
+            "piece_type": "1x1",
+            "row": 0,
+            "col": 2
+        },
+        {
+            "label": "x",
+            "piece_type": "1x1",
+            "row": 3,
+            "col": 1
+        },
+        {
+            "label": "y",
+            "piece_type": "1x1",
+            "row": 2,
+            "col": 0
+        },
+        {
+            "label": "z",
+            "piece_type": "1x1",
+            "row": 3,
+            "col": 5
+        },
+        {
+            "label": "{",
+            "piece_type": "1x1",
+            "row": 0,
+            "col": 3
+        },
+        {
+            "label": "|",
+            "piece_type": "1x1",
+            "row": 3,
+            "col": 3
+        }
+    ],
+    "target": "a"
+}
